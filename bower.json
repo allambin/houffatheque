@@ -1,0 +1,22 @@
+{
+  "name": "Houffatheque",
+  "version": "1.0.0",
+  "authors": [
+    "Anne-Lise Lambin <annelise@cblue.be>"
+  ],
+  "moduleType": [
+    "yui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
